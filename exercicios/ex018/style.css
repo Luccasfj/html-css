@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to top,#e5eaa4, #a8c4a2) ;
+    height: 45em;
+   }
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(156, 149, 116, 0.666);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1 {
+    font-family:'Kaushan Script', Times, serif;
+    color: #a8c4a2;
+}
+h2 {
+    font-family:'Kaushan Script', Times, serif;
+    color: #e5eaa4;
+}
